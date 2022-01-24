@@ -1,3 +1,10 @@
 * {
   font-family: "Poppins", sans-serif;
 }
+/* media queries only for slider images */
+
+@media only screen and (max-width: 600px) {
+  img {
+    height: 340px;
+  }
+}
