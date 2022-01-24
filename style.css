@@ -4,7 +4,7 @@
 /* media queries only for slider images */
 
 @media only screen and (max-width: 600px) {
-  img {
+  .sm-cover img {
     height: 340px;
   }
 }
